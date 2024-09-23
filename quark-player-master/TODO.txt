@@ -1,0 +1,10 @@
+----TODO----
+
+update service logos
+
+------------Notes-----------------
+main accent color: #AE5EE0
+
+- Add Dependency Updates Alerter Bot
+
+python3 -m castlabs_evs.vmp sign-pkg dist\win-unpacked
